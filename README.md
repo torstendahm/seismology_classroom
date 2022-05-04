@@ -7,6 +7,7 @@
     1. Reading in data
     2. FFT
     3. Filter time series
+    4. Convulution?
 3. Intro to seismological toolboxes - Malte []
     1. Pyrocko and Obspy
     2. Intro to (provided data)
