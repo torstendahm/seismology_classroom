@@ -3,23 +3,22 @@
 ## Modules
 1. Introduction to Python, Command Line and Github - Angela []
     1. Plot of gridded data
-2. Filter/Frequency handling etc. - Lukas []
+2. Numerical Tools - Lukas []
     1. Reading in data
     2. FFT
     3. Filter time series
-    4. Convulution?
+    4. (De-)Convolution
 3. Intro to seismological toolboxes - Malte []
     1. Pyrocko and Obspy
     2. Intro to (provided data)
         1. station data handling
         2. event data handling
         3. waveform data handling
-4. Get online data - Lukas []
-    1. EIDA/FDSN/Orfeus
-    2. also via Web?
-    3. Event catalogs
-    4. Waveform data
-    5. Stationdata
+4. Retrieving online data - Lukas []
+    1. Web-Based: EIDA/FDSN/Orfeus
+    2. Event catalogs
+    3. Waveform data
+    4. Station data
 5. Picking/Phases - Malte []
     1. Certain phases
     2. pick in snuffler
