@@ -9,6 +9,7 @@
     3. Filter time series
     4. (De-)Convolution
     5. (Cross)-Correlation
+    6. (Linear) Regression
 3. Intro to seismological toolboxes - Malte []
     1. Pyrocko and Obspy
     2. Intro to (provided data)
