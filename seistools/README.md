@@ -21,3 +21,23 @@
         * Pyrocko - reading (trace snuffle)
         * Pyrocko - squirrel (squirrel snuffle)
         * Obspy stream (obspy plot)
+
+
+## ToDo
+* Why do we do restitution
+* Seperate into scripts
+    * Waveforms
+    * Station
+    * Event
+* Remove print
+* Save functions
+* Summary
+* Check links
+* Station
+    * Pyrocko format
+    * Create a new station
+* Event
+    * Pyrocko format
+    * Create new event
+* Obspy_compat
+    * To obspy functions
