@@ -62,6 +62,22 @@ File style:
   * Introductiary file
   * Summary at the end of each file
 
+## Meeting 29/06/22
+** Hints **
+* usage of <div class="alert alert-success"> blabla </div> using success, info, warning or danger for colored text boxes
+* 
+
+** Next Steps **
+* Finish modules
+* add author list
+* include pitfalls
+* add references in module introcudction to
+    * literature
+    * classes course is handy for
+* always included required data
+* provide full examples
+* Merge on 6/7/22
+* Review from FK, MO, TD, SH until 14/7/22
 
 **LONG TERM**:
 * BINDER
