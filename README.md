@@ -82,3 +82,6 @@ File style:
 **LONG TERM**:
 * BINDER
 * Map creation module
+
+
+## [Authors](AUTHORS.md)
