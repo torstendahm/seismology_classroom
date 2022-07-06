@@ -1,0 +1,18 @@
+--- !pf.QSeisConfig
+time_region: [begin-50, end+100]
+cut: [begin-50, end+100]
+fade: [begin-50, begin-25, end+200, end+300]
+relevel_with_fade_in: true
+sw_algorithm: 0
+slowness_window: [0.0, 0.0, 0.0, 0.0]
+wavenumber_sampling: 2.5
+aliasing_suppression_factor: 0.1
+filter_surface_effects: 0
+filter_shallow_paths: 0
+filter_shallow_paths_depth: 0.0
+sw_flat_earth_transform: 1
+gradient_resolution_vp: 0.0
+gradient_resolution_vs: 0.0
+gradient_resolution_density: 0.0
+wavelet_duration_samples: 0.001
+wavelet_type: 2
