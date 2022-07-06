@@ -71,9 +71,9 @@ File style:
 Module | Reviewer
 ---|---
 Introduction | Eva, (Sebastian)
-Signal Proc | Matthias, Eva, Frank
-Seis. Toolboxes | Eva, Matthias, Sebastian
-Online data| Matthias, Sebastian
+Numerical Tools | Matthias, Eva, Frank
+Seismological Toolboxes | Eva, Matthias, Sebastian
+Retrieving online data| Matthias, Sebastian
 Picking | (Matthias), Frank
 Cake - Traveltimes | Torsten
 Synthetics | Torsten, Frank
