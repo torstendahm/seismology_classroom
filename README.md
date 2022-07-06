@@ -65,7 +65,19 @@ File style:
 ## Meeting 29/06/22
 ** Hints **
 * usage of <div class="alert alert-success"> blabla </div> using success, info, warning or danger for colored text boxes
-* 
+
+
+## First Revision
+Module | Reviewer
+---|---
+Introduction | Eva, (Sebastian)
+Signal Proc | Matthias, Eva, Frank
+Seis. Toolboxes | Eva, Matthias, Sebastian
+Online data| Matthias, Sebastian
+Picking | (Matthias), Frank
+Cake - Traveltimes | Torsten
+Synthetics | Torsten, Frank
+
 
 ** Next Steps **
 * Finish modules
