@@ -1,45 +1,26 @@
-# Introduction 
+# Preface and background to *seismology_classroom* by the Seismology Group at the University of Potsdam (UPo) and the German Research Center for Geosciences (GFZ). 
 
-## Modules
-1. Introduction to Python, Command Line and Github - Angela []
-    1. Plot of gridded data
-2. Numerical Tools - Lukas []
-    1. Reading in data
-    2. FFT
-    3. Filter time series
-    4. (De-)Convolution
-    5. (Cross)-Correlation
-    6. (Linear) Regression
-3. Intro to seismological toolboxes - Malte []
-    1. Pyrocko and Obspy
-    2. Intro to (provided data)
-        1. station data handling
-        2. event data handling
-        3. waveform data handling
-4. Retrieving online data - Lukas []
-    1. Web-Based: EIDA/FDSN/Orfeus
-    2. Event catalogs
-    3. Waveform data
-    4. Station data
-5. Picking/Phases - Malte []
-    1. Certain phases
-    2. pick in snuffler
-        * Hands on with back up documentation with pictures in git
-        * save picks for 6.
-6. Cake intro - Malte []
-    1. Check cake vs. real pickings in snuffler
-        * use scripting
-        * load old picks
-        * compare cake to real picks
-    2. Cake plots
-    3. Cake command line usage
-7. Synthetic seismograms/Fomosto/GF handling - Angela []
-    1. Describe source types (DC Source, RS Model)
-    2. Calculate synthetic seismogram from GF with point source
-8. Map creation
-    * Cartopy
-    * Basemap
-    * GMT
+The Git project and Github repository *seismology_classroom* was developed in summer 2022 at UPo and GFZ by three PhD students (Malte Metz, Angela Carrillo Ponce, Lukas Lehmann) with feedback from professors of geophysics at the University of Potsdam. The goal of the student project was to provide examples of Python scripts and examples to introduce and support the practicals and lectures in seismology in the Master's program (MSc) in Geophysics / Seismology at the University of Potsdam. 
+
+The lecture notes and Jupyter notebook examples were developed for a five-day pre-course attended before the start of the MSc for students coming from other universities or having a different background - to bring everyone to a similar level. In addition, the notebooks were intended to serve as online materials for all MSc students to follow through the master's phase or to begin their own assignments and internships.
+
+The Jupyter notebook examples are not intended to replace specific lectures, and they are not necessarily correct in all aspects. They serve as code examples to get started in the topic, but do not explain the theoretical background and context. For this, students must attend the lectures and courses offered as part of the MSc program at the University of Potsdam. For each notebook, there are links to lectures where the theoretical background is explained or where the examples are applied. 
+
+The student project is being developed under github. We hope that the *seismology_classroom* at the University of Potsdam will become a project where other PhD students, Master students and professors contribute and develop the project further. 
+
+Potsdam, July 16, 2022
+
+The [Authors](AUTHORS.md)
+
+# Modules
+1. Introduction to Python, Command Line and Github
+2. Signal Processing
+3. Introduction to seismological toolboxes
+4. Retrieving online data
+5. Picking/Phases
+6. Introduction to synthetic traveltime calculation
+7. Synthetic seismograms
+8. Map creation (planned)
 
 ## Meeting 08/06/22
 File naming and structure:
