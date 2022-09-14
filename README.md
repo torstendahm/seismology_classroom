@@ -60,21 +60,57 @@ Cake - Traveltimes | Torsten
 Synthetics | Torsten, Frank
 
 
-** Next Steps **
-* Finish modules
-* add author list
-* include pitfalls
+## Schedule idea
+Day plan
+Time | What
+--- | ---
+9:00 AM | Start
+12:30 PM | Lunch Break
+1:30 PM | Start of afternoon session
+5:00 PM | End (latest)
+
+Module | Time required | When | Priority
+---|---|---|---
+1 Introduction | 1 day | Mo | High
+2 Numerical Tools | 1 day | Tue | High
+3 Seismological Toolboxes | 1 day | Wed | High
+4 Retrieving online data | 0.25 day | Thu| Medium
+5 Picking | 0.5-1 day | Thu | Medium
+6 Cake - Traveltimes | 0.25 day | Thu/Fr | Low
+7 Synthetics | 1 day | Fr | Low
+X Map generation | X day | All week| Medium
+
+
+## ToDo/Plan
+* Finish coding
+    * done by 21/09/
+    * then merge and request for feedback - Malte
+* List of required packages
+    * done by 26/09/
+* Checkout PC Pool House 25
+    * Herr Neumann
+    * together with Matthias
+    * in week 26/09/ - 30/09/
+* Invitation Mail to future participants (Beginning of October)
+    * Place
+    * Time
+    * Schedule
+    * Highlight course is meant for seismology students majorly
+* BINDER - Lukas
+    * done by 26/09/
+* Map creation module - 21/09/
+    * Basemap - Angela
+    * GMT/PyGMT - pyrocko.Automap - Malte
+    * Cartopy - Lukas
+    * Example
+        * Basic Map (World, Germany) - Projections
+        * Features (topo, countries, rivers)
+        * List of Symbols (cities/stations via coordinates)
+        * Labels (label cities/stations)
+        * Contoured data
 * add references in module introcudction to
     * literature
     * classes course is handy for
-* always included required data
-* provide full examples
-* Merge on 6/7/22
-* Review from FK, MO, TD, SH until 14/7/22
-
-**LONG TERM**:
-* BINDER
-* Map creation module
 
 
 ## [Authors](AUTHORS.md)
