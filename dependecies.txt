@@ -1,0 +1,7 @@
+Numpy
+Matplotlib
+Sklearn
+Pandas
+Scipy
+Time (default?)
+Ipython
