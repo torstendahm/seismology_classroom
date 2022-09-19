@@ -5,3 +5,5 @@ Pandas
 Scipy
 Time (default?)
 Ipython
+Pyrocko
+Obspy
