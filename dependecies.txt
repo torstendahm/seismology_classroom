@@ -7,3 +7,5 @@ Time (default?)
 Ipython
 Pyrocko
 Obspy
+Cartopy
+    - GEOS, Shapely, and pyshp
