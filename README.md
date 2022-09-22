@@ -22,45 +22,7 @@ The [Authors](AUTHORS.md)
 7. Synthetic seismograms
 8. Map creation (planned)
 
-## Meeting 08/06/22
-File naming and structure:
-  * use numbers "1, 2, 3..." for each submodule file
-  * add "appendix" in file names for additional information
-  * one file per submodule
-  * Introduction file per module
-
-File style:
-  * add Table of Contents in beginning of each script
-  * Introduction, what shall be taught during the specific lecture
-  * Summary at the end of the script ("what have we learned")
-  * Detailed documentation of each step in script
-  * Exercise ideas
-
-**Next Steps**:
-  * Update scripts
-  * Documenatation
-  * Axis labels
-  * Introductiary file
-  * Summary at the end of each file
-
-## Meeting 29/06/22
-** Hints **
-* usage of <div class="alert alert-success"> blabla </div> using success, info, warning or danger for colored text boxes
-
-
-## First Revision
-Module | Reviewer
----|---
-Introduction | Eva, (Sebastian)
-Numerical Tools | Matthias, Eva, Frank
-Seismological Toolboxes | Eva, Matthias, Sebastian
-Retrieving online data| Matthias, Sebastian
-Picking | (Matthias), Frank
-Cake - Traveltimes | Torsten
-Synthetics | Torsten, Frank
-
-
-## Schedule idea
+# Schedule idea
 Day plan
 Time | What
 --- | ---
@@ -72,45 +34,13 @@ Time | What
 Module | Time required | When | Priority
 ---|---|---|---
 1 Introduction | 1 day | Mo | High
-2 Numerical Tools | 1 day | Tue | High
+2 Signal Processing | 1 day | Tue | High
 3 Seismological Toolboxes | 1 day | Wed | High
 4 Retrieving online data | 0.25 day | Thu| Medium
 5 Picking | 0.5-1 day | Thu | Medium
 6 Cake - Traveltimes | 0.25 day | Thu/Fr | Low
 7 Synthetics | 1 day | Fr | Low
-X Map generation | X day | All week| Medium
-
-
-## ToDo/Plan
-* Finish coding
-    * done by 21/09/
-    * then merge and request for feedback - Malte
-* List of required packages
-    * done by 26/09/
-* Checkout PC Pool House 25
-    * Herr Neumann
-    * together with Matthias
-    * in week 26/09/ - 30/09/
-* Invitation Mail to future participants (Beginning of October)
-    * Place
-    * Time
-    * Schedule
-    * Highlight course is meant for seismology students majorly
-* BINDER - Lukas
-    * done by 26/09/
-* Map creation module - 21/09/
-    * Basemap - Angela
-    * GMT/PyGMT - pyrocko.Automap - Malte
-    * Cartopy - Lukas
-    * Example
-        * Basic Map (World, Germany) - Projections
-        * Features (topo, countries, rivers)
-        * List of Symbols (cities/stations via coordinates)
-        * Labels (label cities/stations)
-        * Contoured data
-* add references in module introcudction to
-    * literature
-    * classes course is handy for
+8 Map generation | X day | All week| Medium
 
 
 ## [Authors](AUTHORS.md)
