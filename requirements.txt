@@ -1,0 +1,47 @@
+# Apitude Packages install via apt-get install (LINUX only)
+python3-pip
+make
+git
+python3-dev
+python3-setuptools
+python3-pip
+python3-wheel
+python3-numpy
+python3-numpy-dev
+python3-scipy
+python3-matplotlib
+python3-pyqt5
+python3-pyqt5.qtopengl
+python3-pyqt5.qtsvg
+python3-pyqt5.qtwebkit
+python3-yaml
+python3-progressbar
+python3-jinja2
+python3-requests
+python3-coverage
+python3-nose
+libgeos-dev
+
+# Pip packages via pip install or python3 -m pip install
+basemap
+cartopy
+GDAL
+geopandas
+ipython
+jupyter
+notebook
+Obspy>1.3.0
+pandas
+pygmt
+pyrocko (with --no-deps)
+pyshp
+scikit-learn
+seaborn
+shapely
+
+# GMT in Version 6.4 including GSSHG and DCW (built from source)
+- Instructions and download: https://www.generic-mapping-tools.org/download/
+- GMT release 6.4 download: https://github.com/GenericMappingTools/gmt/releases/tag/6.4.0
+- GSSHG release 2.3.7: https://github.com/GenericMappingTools/gshhg-gmt/releases/download/2.3.7/gshhg-gmt-2.3.7.tar.gz
+- DCW release 2.1.1 download: https://github.com/GenericMappingTools/dcw-gmt/releases/download/2.1.1/dcw-gmt-2.1.1.tar.gz
+- Please consider the guide on building GMT from here: https://github.com/GenericMappingTools/gmt/blob/master/BUILDING.md
